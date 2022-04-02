@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/apply_pandas/__init__.py
+src/apply_pandas/apply.py
+src/apply_pandas.egg-info/PKG-INFO
+src/apply_pandas.egg-info/SOURCES.txt
+src/apply_pandas.egg-info/dependency_links.txt
+src/apply_pandas.egg-info/top_level.txt
